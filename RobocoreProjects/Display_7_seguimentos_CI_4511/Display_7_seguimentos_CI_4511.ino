@@ -1,7 +1,7 @@
-const int a = 4;
-const int b = 5;
-const int c = 6;
-const int d = 7;
+const int a = 5;
+const int b = 4;
+const int c = 3;
+const int d = 2;
 void setup(){
 pinMode(a, OUTPUT);
 pinMode(b, OUTPUT);
